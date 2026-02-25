@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1770929950215
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1770929977800
+    },
+    "openclaw-aisa-llm-gateway": {
+      "version": "1.0.0",
+      "installedAt": 1771998517291
+    },
+    "multi-search-engine": {
+      "version": "2.0.1",
+      "installedAt": 1771998567753
+    },
+    "security-auditor": {
+      "version": "1.0.0",
+      "installedAt": 1771998608094
+    },
+    "surrealdb-knowledge-graph-memory": {
+      "version": "2.2.0",
+      "installedAt": 1771999579409
+    },
+    "n8n-workflow-automation": {
+      "version": "1.0.0",
+      "installedAt": 1771999587843
+    },
+    "cron-scheduling": {
+      "version": "1.0.0",
+      "installedAt": 1771999599560
+    }
+  }
+}
