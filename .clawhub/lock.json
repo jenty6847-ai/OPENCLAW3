@@ -32,6 +32,22 @@
     "cron-scheduling": {
       "version": "1.0.0",
       "installedAt": 1771999599560
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1772000961473
+    },
+    "git-workflows": {
+      "version": "1.0.0",
+      "installedAt": 1772001083929
+    },
+    "openclaw-github-assistant": {
+      "version": "2.0.1",
+      "installedAt": 1772001090787
+    },
+    "edge-tts": {
+      "version": "2.0.0",
+      "installedAt": 1772001616768
     }
   }
 }
