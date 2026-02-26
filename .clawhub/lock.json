@@ -48,6 +48,14 @@
     "edge-tts": {
       "version": "2.0.0",
       "installedAt": 1772001616768
+    },
+    "openclaw-antigravity-sync": {
+      "version": "1.0.0",
+      "installedAt": 1772064277689
+    },
+    "openclaw-aisa-chinese-llm-models": {
+      "version": "1.0.1",
+      "installedAt": 1772064536174
     }
   }
 }
