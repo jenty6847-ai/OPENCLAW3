@@ -41,39 +41,23 @@ Add whatever helps you do your job. This is your cheat sheet.
 
 ---
 
-## 🦞 小龙虾武装配置 (2026-02-25)
+## 🦞 小龙虾武装配置 (2026-02-26)
 
 ### 已安装技能
 
 | 技能 | 用途 | 配置 |
 |------|------|------|
-| `openclaw-aisa-llm-gateway` | 70+ AI 模型统一接入 | 需 `AISA_API_KEY` |
 | `multi-search-engine` | 17 个搜索引擎 (无 API) | 无需配置 |
 | `security-auditor` | OWASP 安全审计 | 无需配置 |
 | `find-skills` | 技能发现与安装 | 无需配置 |
 | `tavily-search` | AI 优化 web 搜索 | 需 `TAVILY_API_KEY` |
 
-### ✅ 已安装 (第二阶段 - 2026-02-25)
+### ✅ 已安装 (第二阶段 - 2026-02-26)
 
 | 技能 | 用途 | 配置 |
 |------|------|------|
-| `surrealdb-knowledge-graph-memory` | GraphRAG 知识图谱记忆 | 需 `OPENAI_API_KEY` + SurrealDB |
 | `n8n-workflow-automation` | 自动化工作流引擎 | 需 n8n 实例 |
 | `cron-scheduling` | 智能调度系统 | Linux/macOS (cron/systemd) |
-
-### AISA 多模型网关配置
-
-**获取 API Key**: https://aisa.one
-
-**支持模型**:
-- GPT-4.1 / GPT-4o / GPT-4o-mini
-- Claude-3-5-Sonnet / Claude-3-Opus
-- Gemini-2.0-Flash / Gemini-1.5-Pro
-- Qwen-Max / Qwen-Plus
-- Deepseek-V3 / Deepseek-Coder
-- Grok-2
-
-**端点**: `https://api.aisa.one/v1/chat/completions`
 
 ### 搜索引擎快捷方式
 
